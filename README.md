@@ -5,7 +5,7 @@
 A simple Dart app that computes order totals, applies discounts, and prints receipts.
 
 ### Printed Receipts Output
-
+```text
 Order for Guest
 3 x Adobo rice      255.00
 1 x Iced tea         35.00
